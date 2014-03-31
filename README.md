@@ -13,3 +13,7 @@ __ pre-ALPHA version - DO NOT use in production __
 
 - Report issues or feature requests here on the [issue tracker](https://github.com/pydio/wp-pydio-sso/issues)
 - Fork and send us your Pull Requests
+
+## Contributing
+
+Please <a href="http://pyd.io/contribute/cla">sign the Contributor License Agreement</a> before contributing.
